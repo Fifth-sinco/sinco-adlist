@@ -131,6 +131,7 @@ eu.get-things-done.info
 ew.phncdn.com
 externals-1953518744.us-east-1.elb.amazonaws.com
 ezyenrwcmo.com
+elaboratehall.pro
 
 #F
 fast.dope.autos
@@ -309,6 +310,7 @@ stripchat.com
 stufupogli.com
 suzihaza.com
 sw.wpush.org
+sxypix.com
 
 #T
 t.favaqo.xyz
@@ -352,6 +354,7 @@ us.ynuf.aliapp.org
 usdelivers.net
 use.fontawesome.com
 us-ucdc-upaas.ucweb.com
+uc-7.telemetry.eyeo.com
 
 #V
 v6rxv5coo5.com
