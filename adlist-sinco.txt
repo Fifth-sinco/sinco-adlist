@@ -1,11 +1,8 @@
 ######################
 ###
-###Adlist by Sinco
+###   Adlist by Sinco
+###     List for Pi-hole
 ###
-###List for Pi-hole
-### 
-###List not perfect
-### 
 ######################
 
 #Regex
