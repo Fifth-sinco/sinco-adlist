@@ -1,7 +1,7 @@
 ######################
 ###
 ###   Adlist by Sinco
-###     List for Pi-hole
+###     - List for Pi-hole
 ###
 ######################
 
@@ -18,16 +18,34 @@
 (\\.|^)glimtors\\.net$
 (\\.|^)phicmune\\.net$
 (\\.|^)byluxrayor\\.com$
-(\\.|^)ak\\.hetaint\\.com$
+(\\.|^)hetaint\\.com$
 (\\.|^)alipay\\.com$
 (\\.|^)alipayobjects\\.com$
 (\\.|^)ir3\\.xyz$
 (\\.|^)cdsecurecloud-dt\\.com$
-(\\.|^)pabeq\\.fancydates\\.net$
+(\\.|^)fancydates\\.net$
 (\\.|^)prelandappslab\\.com$
 (\\.|^)clich-cdn\\.com$
 (\\.|^)ksmobile\\.com$
 (\\.|^)alipay\\.org$
+(\\.|^)taobao\\.com$
+(\\.|^)aliapp\\.org$
+(\\.|^)alipay\\.com$
+(\\.|^)ucweb\\.com$
+(\\.|^)jads\\.co$
+(\\.|^)shockynews\\.com$
+(\\.|^)inrhyterraon\\.com$
+(\\.|^)inrhyhontor\\.com$
+(\\.|^)majorityevaluatewiped\\.com
+(\\.|^)krjxhvyyzp\\.com$
+(\\.|^)omnatuor\\.com$
+(\\.|^)pepepush\\.net$
+(\\.|^)prestiztv\\.com$
+(\\.|^)secrecysatisfy\\.com$
+(\\.|^)supapush\\.net$
+(\\.|^)updateenow\\.com$
+(\\.|^)dnindia\\.in$
+(\\.|^)ff-01\\.com$
 
 #NUMBERS
 123.selornews.com
@@ -58,6 +76,7 @@
 5thfinger.com
 600z.com
 777partner.com
+7.guesswhatnews.com
 777seo.com
 77tracking.com
 7bpeople.com
@@ -1016,6 +1035,7 @@ affiliatetracking.net
 affiliatetrading.net
 affiliatewindow.com
 affiliation-france.com
+afcnuchxgo.com
 ah-ha.com
 ahalogy.com
 aidu-ads.de
@@ -1215,6 +1235,7 @@ bannershotlink.perfectgonzo.com
 bannersng.yell.com
 bannerspace.com
 bannerswap.com
+belickitungchang.com
 bannertesting.com
 bannery.cz
 bannieres.acces-contenu.com
@@ -1314,6 +1335,7 @@ cdn4ads.com
 cdsecurecloud-dt.com
 chat7.bcccdn.com
 chrif8kdstie.com
+creative.xlivrdr.com
 chushywoce.com
 click.php
 click.tecdo-ec.com
@@ -1567,6 +1589,7 @@ dmtracking.alibaba.com
 dmtracking2.alibaba.com
 dnads.directnic.com
 domaining.in
+dzienkudrow.com
 domainsponsor.com
 domainsteam.de
 domdex.com
@@ -1704,6 +1727,7 @@ flurry.com
 findcommerce.com
 findyourcasino.com
 fineclicks.com
+fil
 first.nova.cz
 firstlightera.com
 flashtalking.com
@@ -1719,6 +1743,7 @@ fragmentserv.iac-online.de
 freebanner.com
 freelogs.com
 freemyapps.com
+friendshipmale.com
 freeonlineusers.com
 freepay.com
 freestats.com
