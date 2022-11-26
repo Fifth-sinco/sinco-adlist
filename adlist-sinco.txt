@@ -46,6 +46,7 @@
 (\\.|^)updateenow\\.com$
 (\\.|^)dnindia\\.in$
 (\\.|^)ff-01\\.com$
+(\\.|^)afcnuchxgo\\.com$
 
 #NUMBERS
 123.selornews.com
