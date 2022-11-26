@@ -47,6 +47,9 @@
 (\\.|^)dnindia\\.in$
 (\\.|^)ff-01\\.com$
 (\\.|^)afcnuchxgo\\.com$
+(\\.|^)wp\\.com$
+(\\.|^)akidoo\\.top$
+(\\.|^)\\.top$
 
 #NUMBERS
 123.selornews.com
