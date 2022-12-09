@@ -43,7 +43,6 @@
 (\\.|^)profitsurvey\\.org$
 (\\.|^)secrecysatisfy\\.com$
 (\\.|^)shockynews\\.com$
-(\\.|^)shope\\.ee$
 (\\.|^)supapush\\.net$
 (\\.|^)suzihaza\\.com$
 (\\.|^)taobao\\.com$
