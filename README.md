@@ -1,7 +1,7 @@
 **Personal Adlist for Pihole**
 
 You may use my list or download and modify it for your own use.
-All domain listed on this list are ads that I have encountered for 2 years while using Pihole starting 2020.
+All domain listed on this list are ads that I have encountered for 3 years while using Pihole starting 2020.
 
 I'm using these following adlist in combination with mine: 
   1. https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
