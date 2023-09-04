@@ -27,4 +27,4 @@ I'm using these following adlist in combination with mine:
   21. https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
   22. https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
   
-  By Sinco 11-5-2022
+  By Sinco 9-4-2023
